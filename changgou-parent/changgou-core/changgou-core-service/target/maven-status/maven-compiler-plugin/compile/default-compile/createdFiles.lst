@@ -1,0 +1,7 @@
+com\changgou\core\service\PagingService.class
+com\changgou\core\service\CoreService.class
+com\changgou\core\service\SelectService.class
+com\changgou\core\service\impl\CoreServiceImpl.class
+com\changgou\core\service\DeleteService.class
+com\changgou\core\service\InsertService.class
+com\changgou\core\service\UpdateService.class
